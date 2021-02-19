@@ -1,10 +1,10 @@
-# model-doodle
+# Welcome to Model-Doodle!
 
 ## Purpose
 
-The purpose of this repo is just to store a bunch of easy to use boilerplate for EDA and finding the right model to work on a set of data.
+The purpose of this project is just to create a bunch of easy to use boilerplate Jupyter Notebooks for EDA, model selection and other common data science tasks.
 
-This is a work in progress and pull requests are very welcome.
+This is a work in progress and pull requests are very welcome!
 
 ## Content/Organization
 
