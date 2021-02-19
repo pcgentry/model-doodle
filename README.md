@@ -11,7 +11,7 @@ This is a work in progress and pull requests are very welcome!
 The work is organized into Jupyter notebooks and titled by number/name to keep the notebooks in order by topic.
 
 1. 1.0 - General Classifier Comparisons
-  - 1.1.1-2 Grid Search for KNN hyper parameters
+  - 1.1 KNN Grid Search
   - Grid search for some other model.... TBD
 2. Regression Model Comparison ... TODO
 
