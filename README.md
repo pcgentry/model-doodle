@@ -12,7 +12,8 @@ The work is organized into Jupyter notebooks and titled by number/name to keep t
 
 1. 1.0 - General Classifier Comparisons
   - 1.1 KNN Grid Search
-  - Grid search for some other model.... TBD
+  - 1.2 Naive Bayes Grid Search
+  - ??? some other model.... TBD
 2. Regression Model Comparison ... TODO
 
 ![alt text](images/doodle.jpeg)
